@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# IAR ELF Linker V7.80.4.12462/W32 for ARM                29/Apr/2024  17:01:18
+# IAR ELF Linker V7.80.4.12462/W32 for ARM                29/Apr/2024  17:29:32
 # Copyright 2007-2017 IAR Systems AB.
 #
 #    Output file  =  
@@ -369,7 +369,7 @@ LL_IOP_GRP1_EnableClock
                         0x08001429   0x16  Code  Lc  main.o [1]
 MX_GPIO_Init            0x08001741   0x7c  Code  Lc  main.o [1]
 MX_RTC_Init             0x08001579   0xca  Code  Lc  main.o [1]
-MX_TIM2_Init            0x08001645   0xea  Code  Lc  main.o [1]
+MX_TIM2_Init            0x08001645   0xe8  Code  Lc  main.o [1]
 NMI_Handler             0x080026dd    0x2  Code  Gb  stm32l0xx_it.o [1]
 PLLMulTable             0x08002804    0xc  Data  Gb  system_stm32l0xx.o [1]
 PVD_IRQHandler          0x080026ed    0x8  Code  Gb  stm32l0xx_it.o [1]
